@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class Ng2OctopusPage {
+export class Ng2ChangeDetectorExperimentsPage {
   navigateTo() {
     return browser.get('/');
   }

@@ -1,7 +1,7 @@
 {
   "project": {
     "version": "1.0.0-beta.26",
-    "name": "ng2-octopus"
+    "name": "ng2-change-detector-experiments"
   },
   "apps": [
     {

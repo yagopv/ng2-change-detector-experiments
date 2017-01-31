@@ -1,10 +1,10 @@
-import { Ng2OctopusPage } from './app.po';
+import { Ng2ChangeDetectorExperimentsPage } from './app.po';
 
-describe('ng2-octopus App', function() {
-  let page: Ng2OctopusPage;
+describe('ng2-change-detector-experiments App', function() {
+  let page: Ng2ChangeDetectorExperimentsPage;
 
   beforeEach(() => {
-    page = new Ng2OctopusPage();
+    page = new Ng2ChangeDetectorExperimentsPage();
   });
 
   it('should display message saying app works', () => {
