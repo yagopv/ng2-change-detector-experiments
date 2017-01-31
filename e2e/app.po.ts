@@ -6,6 +6,6 @@ export class Ng2ChangeDetectorExperimentsPage {
   }
 
   getParagraphText() {
-    return element(by.css('app-root h1')).getText();
+    return element(by.css('parent h1')).getText();
   }
 }
