@@ -7,6 +7,7 @@ import { ParentModule } from './app/parent.module';
 
 if (environment.production) {
   enableProdMode();
+
 }
 
 platformBrowserDynamic().bootstrapModule(ParentModule);
